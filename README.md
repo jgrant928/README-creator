@@ -11,17 +11,6 @@ Example image:
 Video Walkthrough Link:
 https://user-images.githubusercontent.com/112264295/202069209-1d7729cf-caa1-4313-ba5c-ab58ec971280.mp4
 
-## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
-
 ## License
 MIT
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-
-
-
